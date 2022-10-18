@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/6iBjV1J"  ><a href="//imgur.com/a/6iBjV1J"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/MDPyhBV.png" width="100%">
+
 <!--
 **CharlesErrington/CharlesErrington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
