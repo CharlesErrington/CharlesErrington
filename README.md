@@ -15,6 +15,20 @@
 Full-Stack Software Engineer. I have a passion for technology that solves the worlds problems. Previously an entrepreneur and professional poker player.
 
 See <a href="https://charleserrington.com">my website</a> for more information!
+
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">CharlesErrington.com</h3>
+      <br />
+      <a target="_blank" href="https://charleserrington.com">
+            <img src="https://user-images.githubusercontent.com/105420057/196705004-d6344279-0d39-4195-bba6-3585fe63201f.gif" width="100%" alt="Portfolio Website"/>
+      </a>
+      
+      
+      
+
 <!--
 **CharlesErrington/CharlesErrington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
