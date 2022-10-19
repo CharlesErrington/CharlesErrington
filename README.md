@@ -26,12 +26,17 @@ See <a href="https://charleserrington.com">my website</a> for more information!
             <img src="https://user-images.githubusercontent.com/105420057/196705004-d6344279-0d39-4195-bba6-3585fe63201f.gif" width="100%" alt="Portfolio Website"/>
       </a>
       <br />
+      <p align="center">
+      
       <a href="https://github.com/CharlesErrington/mywebsite" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
       </a>  
       <a href="https://charleserrington.com" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
       </a>
+      <p />
+      <p><strong>Javascript, CSS3 & HTML5</strong> - My portfolio, come check it out, and if you like what you see contact me, maybe we can work together!</p>
+    </td>
       
       
       
