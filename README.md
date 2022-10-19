@@ -14,7 +14,7 @@
 
 Full-Stack Software Engineer. I have a passion for technology that solves the worlds problems. Previously an entrepreneur and professional poker player.
 
-See [my website] (https://charleserrington.com) for more information!
+See <a href="https://charleserrington.com">my website</a> for more information!
 <!--
 **CharlesErrington/CharlesErrington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
