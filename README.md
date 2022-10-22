@@ -34,7 +34,7 @@ See <a href="https://charleserrington.com">my website</a> for more information!
        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
        </a>
        <p/>
-       <p>Javascript, CSS3 & HTML5 - My portfolio, come check it out, and if you like what you see contact me, maybe we can work together!</p>
+  <p><strong>Javascript, CSS3 & HTML5</strong> - My portfolio, come check it out, and if you like what you see contact me, maybe we can work together!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">What's In My Fridge</h3>
@@ -55,10 +55,49 @@ See <a href="https://charleserrington.com">my website</a> for more information!
         <p><strong>Javascript, CSS, HTML</strong> - Collabarative project to encourage cooking by returning recipes that can be made with the food at home. With the option of many filters and ways to sort</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+       <h3 align="center">AbbyGlaze.com</h3>
+       </br>
+       <a target="_blank" href="https://abbyglaze.netlify.app">
+       <img src="https://user-images.githubusercontent.com/105420057/197336819-eb0639d8-1c2c-4796-8d74-ce70fdee41f2.gif" width="100%" alt="Abby Glaze"/>
+       </a>
+       <br />
+       <p align="center">
+       <a href="https://github.com/CharlesErrington/abbyglaze" target="_blank">
+       <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+       </a>  
+       <a href="https://abbyglaze.netlify.app" target="_blank">
+       <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+       </a>
+       <p/>
+       <p><strong>Javascript, CSS3 & HTML5</strong> - Clean website for double glazing business with beautiful scroll animations and before/after sliders</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Resume Website</h3>
+        <br />
+      <a target="_blank" href="https://vejamara.netlify.app">
+            <img src="https://user-images.githubusercontent.com/105420057/197337128-9261d5db-e55b-43b9-8288-4d8f202d9619.gif" width="100%"  alt="Resume Website"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://vejamara.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, CSS, HTML</strong> - Present your best self with an aesthetically pleasing, dynamic resume</p>
+    </td>
+  </tr>
   
 </table>
       
-      
+
+
+
 
       
 
