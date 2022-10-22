@@ -33,10 +33,29 @@ See <a href="https://charleserrington.com">my website</a> for more information!
        <a href="https://charleserrington.com" target="_blank">
        <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
        </a>
-       <p />
-       
+       <p/>
+       <p>Javascript, CSS3 & HTML5 - My portfolio, come check it out, and if you like what you see contact me, maybe we can work together!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">What's In My Fridge</h3>
+        <br />
+      <a target="_blank" href="#">
+            <img src="https://user-images.githubusercontent.com/105420057/197335446-d412fe8c-c4ef-4af8-8f33-7f891a2ea9af.gif" width="100%"  alt="What's In My Fridge"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/CharlesErrington/recipeapp-1" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
     </td>
   </tr>
+  
 </table>
       
       
