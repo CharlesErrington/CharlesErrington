@@ -37,10 +37,10 @@ See <a href="https://charleserrington.com">my website</a> for more information!
   <p><strong>Javascript, CSS3 & HTML5</strong> - My portfolio, come check it out, and if you like what you see contact me, maybe we can work together!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">What's In My Fridge</h3>
+      <h3 align="center">What Can I Cook</h3>
         <br />
       <a target="_blank" href="#">
-            <img src="https://user-images.githubusercontent.com/105420057/201911183-6da40bde-5ac3-456e-938b-05616318f423.gif" width="100%"  alt="What's In My Fridge"/>
+            <img src="https://user-images.githubusercontent.com/105420057/201911183-6da40bde-5ac3-456e-938b-05616318f423.gif" width="100%"  alt="What Can I Cook"/>
         </a>
         <br />
         <p align="center">
