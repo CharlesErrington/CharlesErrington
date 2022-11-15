@@ -40,7 +40,7 @@ See <a href="https://charleserrington.com">my website</a> for more information!
       <h3 align="center">What's In My Fridge</h3>
         <br />
       <a target="_blank" href="#">
-            <img src="https://user-images.githubusercontent.com/105420057/197336440-2ece0c4a-2d72-4e6b-bcfc-44d689a7266d.gif" width="100%"  alt="What's In My Fridge"/>
+            <img src="https://user-images.githubusercontent.com/105420057/201911183-6da40bde-5ac3-456e-938b-05616318f423.gif" width="100%"  alt="What's In My Fridge"/>
         </a>
         <br />
         <p align="center">
@@ -108,7 +108,6 @@ See <a href="https://charleserrington.com">my website</a> for more information!
 
 
 <h1 align="center">Connect</h1>
-
 
 
 <p align="center">
