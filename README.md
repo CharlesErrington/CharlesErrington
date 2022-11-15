@@ -39,7 +39,7 @@ See <a href="https://charleserrington.com">my website</a> for more information!
     <td width="50%" valign="top">
       <h3 align="center">What Can I Cook</h3>
         <br />
-      <a target="_blank" href="#">
+      <a target="_blank" href="https://whatcanicook.netlify.app/">
             <img src="https://user-images.githubusercontent.com/105420057/201911183-6da40bde-5ac3-456e-938b-05616318f423.gif" width="100%"  alt="What Can I Cook"/>
         </a>
         <br />
@@ -48,7 +48,7 @@ See <a href="https://charleserrington.com">my website</a> for more information!
   <a href="https://github.com/CharlesErrington/recipeapp-1" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://whatcanicook.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
